@@ -1,0 +1,40 @@
+# > 工作
+DOMAIN-KEYWORD,szlanyou
+DOMAIN-SUFFIX,f3322.net
+DOMAIN-KEYWORD,dflzm
+DOMAIN-SUFFIX,dfac.com
+DOMAIN-KEYWORD,dfmc
+DOMAIN-KEYWORD,dfcecloudcs
+DOMAIN-KEYWORD,tonggeng
+DOMAIN-SUFFIX,dfmc.com.cn
+DOMAIN-SUFFIX,dfhcs.com.cn
+IP-CIDR,139.9.75.0/24,no-resolve
+IP-CIDR,121.36.31.0/24,no-resolve
+DOMAIN-SUFFIX,whmise.com
+IP-CIDR,119.3.152.0/24,no-resolve
+IP-CIDR,121.37.179.0/24,no-resolve
+IP-CIDR,139.159.231.0/24,no-resolve
+IP-CIDR,52.37.78.0/24,no-resolve
+IP-CIDR,61.183.116.0/24,no-resolve
+IP-CIDR,203.0.113.0/24,no-resolve
+IP-CIDR,14.23.175.0/24,no-resolve
+# > home
+DOMAIN-SUFFIX,kamipon.com
+DOMAIN-SUFFIX,remoteapp.windowsazure.com
+DOMAIN-SUFFIX,in.appcenter.ms
+# > 其它
+DOMAIN-SUFFIX,cn.pool.ntp.org
+DOMAIN-SUFFIX,nip.io
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,cn.archive.ubuntu.com
+DOMAIN-SUFFIX,tailscale.io
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,dhac.local
+DOMAIN-SUFFIX,trqjrp.xyz
+DOMAIN-SUFFIX,gaccode.com
+DOMAIN-SUFFIX,comicores.com
+DOMAIN-SUFFIX,cubence.com
+DOMAIN-SUFFIX,comicores.com
+PROCESS-NAME,EasyConnect
+DOMAIN-SUFFIX,gaccode.com
+DOMAIN-SUFFIX,cn.augmunt.com
